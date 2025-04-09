@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+venv/
+*.zip
+kaggle.json
+chest_xray/
